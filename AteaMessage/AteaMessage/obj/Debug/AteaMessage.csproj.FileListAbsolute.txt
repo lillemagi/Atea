@@ -1,0 +1,9 @@
+c:\users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\bin\Debug\AteaMessage.exe.config
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\bin\Debug\AteaMessage.exe
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\bin\Debug\AteaMessage.pdb
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\obj\Debug\AteaMessage.csprojResolveAssemblyReference.cache
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\obj\Debug\AteaMessage.AteaConsole.resources
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\obj\Debug\AteaMessage.Properties.Resources.resources
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\obj\Debug\AteaMessage.csproj.GenerateResource.Cache
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\obj\Debug\AteaMessage.exe
+C:\Users\macol\documents\visual studio 2015\Projects\AteaMessage\AteaMessage\obj\Debug\AteaMessage.pdb
